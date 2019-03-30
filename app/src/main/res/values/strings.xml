@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Triki</string>
+
+    <string name="jugador_1">Jugador 1</string>
+    <string name="jugador_2">Jugador 2</string>
+    <string name="modo_de_juego">Modo de juego</string>
+    <string name="nombre_juagor_1">Nombre juagor 1</string>
+    <string name="nombre_jugador_2">Nombre jugador 2</string>
+    <string name="nievl_de_dificultad">Nievl de dificultad</string>
+    <string name="todo">TODO</string>
+    <string name="empezar_juego">Empezar Juego</string>
+
+    <string-array name="modos_juego">
+        <item>Seleccione un modo</item>
+        <item>Multijugador</item>
+        <item>Contra maquina</item>
+    </string-array>
+    <string-array name="niveles_difultad">
+        <item>Seleccione un nivel</item>
+        <item>Facil</item>
+        <item>Medio</item>
+        <item>Dificil</item>
+    </string-array>
+
+</resources>
